@@ -1,7 +1,7 @@
 - <h1 align="center">Hi 👋, I'm Sohaib Asif</h1>
 <h3 align="center">A Junior Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulahad210904&label=Profile%20views&color=0e75b6&style=flat" alt="abdulahad210904" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SohaibAsif-5602&label=Profile%20views&color=0e75b6&style=flat"%20alt="SohaibAsif-5602" /> </p>
 
 - 👀 I’m interested in Full Stack Web Development and App Development
 
